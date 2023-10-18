@@ -1,1 +1,5 @@
-# test_workr
+# prueba_workr
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/workflowr/workflowr
